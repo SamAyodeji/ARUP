@@ -1,0 +1,14 @@
+c:\users\isaacbaare\documents\visual studio 2015\Projects\CPM\CPM\bin\Debug\CPM.exe.config
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\bin\Debug\CPM.exe
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\bin\Debug\CPM.pdb
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.csprojResolveAssemblyReference.cache
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.Form1.resources
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.Properties.Resources.resources
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.Secure_Folder.resources
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.csproj.GenerateResource.Cache
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.exe
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.pdb
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\bin\Debug\CPM.exe.manifest
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\bin\Debug\CPM.application
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.exe.manifest
+C:\Users\IsaacBaare\documents\visual studio 2015\Projects\CPM\CPM\obj\Debug\CPM.application

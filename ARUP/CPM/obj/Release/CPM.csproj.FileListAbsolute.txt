@@ -1,0 +1,16 @@
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\CPM.exe.config
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.csprojResolveAssemblyReference.cache
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.Form1.resources
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.Properties.Resources.resources
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.Secure_Folder.resources
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.csproj.GenerateResource.Cache
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\CPM.exe.manifest
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\CPM.application
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\CPM.exe
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\CPM.pdb
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\System.Net.Http.dll
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\bin\Release\System.Net.Http.xml
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.exe.manifest
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.application
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.exe
+C:\Users\IsaacBaare\Documents\Visual Studio 2015\Projects\CPM\CPM\obj\Release\CPM.pdb
